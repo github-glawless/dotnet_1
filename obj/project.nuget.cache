@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UHBKVqPv+u4fhrEuAGVCP6wHvQ9biC9EtfXgEL80+xaeLQwnYJ/GyqpgSZsNflJGa4XbyBQ+8buHvBB+CK0LvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\glawless\\nelnet-projects\\dotnet_1\\dotnet_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glawless\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
